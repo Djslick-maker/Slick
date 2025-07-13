@@ -1,4 +1,33 @@
-* {
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SlickPay Bank — Join the Red Drill Revolution</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>SlickPay Bank</header>
+  <main>
+    <h1>Join the Red Drill Revolution</h1>
+    <h2>FDIC-Insured + Crypto-Ready Mobile Banking</h2>
+    <p>Your money. Your rules. Instant accounts, crypto wallets, casino reloads, and biometric security — all in one slick app.</p>
+    <ul class="features">
+      <li>Instant account setup with easy KYC</li>
+      <li>Virtual & physical debit cards</li>
+      <li>Bitcoin & USDT wallet integration</li>
+      <li>Casino reload and referral bonuses</li>
+      <li>Biometric login & 2FA security</li>
+    </ul>
+    <!-- APK download button -->
+    <a href="https://slickplay.global/downloads/SlickPlay_v1.0.apk" class="cta-button">Download Android App</a>
+  </main>
+  <footer>© 2025 SlickPay Bank. All rights reserved.</footer>
+</body>
+</html>* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
